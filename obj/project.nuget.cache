@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "COB+fzr9Ffcw0nnTiB0IYetuOSuJaAx+2iVyi42nZ7uHv1dWl6p+67E/pdPji3MI1MYSBsLtwVcXpGar+rjKXA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MINH TOAN\\source\\repos\\ChineseChess\\ChineseChess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MINH TOAN\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\MINH TOAN\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512"
+  ],
+  "logs": []
+}
